@@ -1,0 +1,20 @@
+ENHANCED STOCK DATASET FEATURE DICTIONARY
+=========================================
+
+Date: Trading date
+return_X: Daily return for stock X
+close_X: Closing price for stock X
+open_X: Opening price for stock X
+high_X: High price for stock X
+low_X: Low price for stock X
+adjusted_X: Adjusted price for stock X
+volume_X: Trading volume for stock X
+maX_Y: X-day moving average for stock Y
+emaX_Y: X-day exponential moving average for stock Y
+rsiX_Y: Relative Strength Index for stock Y
+volatility_X: 20-day rolling standard deviation of returns for stock X
+macd_X: Moving Average Convergence Divergence for stock X
+beta_X_Y_Z: Z-day rolling beta of stock X to index Y
+corr_X_Y: 20-day rolling correlation between stock X and stock Y
+returns_index: Daily return for market index
+roc_X_Y: X-day rate of change for stock Y
